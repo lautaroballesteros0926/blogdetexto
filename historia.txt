@@ -2,8 +2,5 @@ Hola este es mi historia dentro de el mundo de la
 informatica, todo comenzo con mi ingreso a la universidad 
 nacional de ingeneria a los 17 años. 
 
-
-Actualmente esta llevando cursos de platzi, tiene 19 años
-y este año va aprender muchos lenguajes de programacion 
-
+aprederemos tambien porgramacion orientada a objetos
 
